@@ -129,6 +129,6 @@ Feel = [
 
 # 6. Reference
 
-BERT: [klue/bert-base](https://huggingface.co/klue/bert-base)
+* BERT: [klue/bert-base](https://huggingface.co/klue/bert-base)
 
-Dataset: [AI-Hub 감성 대화 말뭉치](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=86)
+* Dataset: [AI-Hub 감성 대화 말뭉치](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=86)
