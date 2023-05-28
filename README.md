@@ -1,10 +1,14 @@
 # 1. Introduction
 
-## 1.1 examples
+## 1.1 model
+
+* [Hugging Face (https://huggingface.co/burningfalls/my-fine-tuned-bert)](https://huggingface.co/burningfalls/my-fine-tuned-bert)
+
+## 1.2 examples
 
 ![examples](https://github.com/BurningFalls/algorithm-study/assets/30232837/596e5010-53b6-4598-8dd3-4ef7fc65e60e)
 
-## 1.2 f1-score
+## 1.3 f1-score
 
 ![bert_accuracy](https://github.com/BurningFalls/algorithm-study/assets/30232837/58830340-aebe-4dc2-85fa-313138ac3020)
 
