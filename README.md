@@ -131,7 +131,7 @@ Feel = [
 
 ---
 
-# 6. Reference
+# 6. Reference 
 
 * BERT: [klue/bert-base](https://huggingface.co/klue/bert-base)
 
